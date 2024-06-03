@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "eaa2736820d416e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3998d11619340f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "472ef5843e42fe9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kalman Filter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d10842d7db79108b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf5913b271b06329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a83d29e39453aaf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af987991284df841",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e205a3ab382cf351",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64cf8e9067cb2d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "94de0c8ae7439525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b23103ae9bbabd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kalman Filter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1f194edcb96f909",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kalman Filter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40423029a61c1ca5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27f1d27861acb59c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kalman Filter.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "472ef5843e42fe9c",
+  "lastOpenFiles": [
+    "Pasted image 20240601151445.png",
+    "Pasted image 20240601150051.png",
+    "Pasted image 20240601145918.png",
+    "Pasted image 20240601145522.png",
+    "Pasted image 20240601112505.png",
+    "Pasted image 20240601104141.png",
+    "Pasted image 20240601101844.png",
+    "Pasted image 20240531201101.png",
+    "WhatsApp Image 2024-05-31 at 19.33.07_97d68733.jpg",
+    "WhatsApp Image 2024-05-31 at 18.49.38_cfea28a2.jpg",
+    "Pasted image 20240531180845 1.png",
+    "Kalman Filter.md"
+  ]
+}
