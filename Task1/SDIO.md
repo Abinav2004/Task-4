@@ -1,0 +1,10 @@
+SDIO/SPI slave controller
+The SDIO/SPI slave controller feature in ESP32 refers to the capability of the ESP32 microcontroller to act as a slave device in either SDIO (Secure Digital Input/Output) or SPI (Serial Peripheral Interface) communication protocols.
+- **SDIO (Secure Digital Input/Output)**: SDIO is a communication interface that extends the capabilities of the standard SPI interface to support SD memory cards, SDIO devices such as Wi-Fi and Bluetooth modules, and other SDIO peripherals. The ESP32's SDIO slave controller allows it to communicate with a master device (usually a host controller) that controls the SDIO bus.
+- **SPI (Serial Peripheral Interface)**: SPI is a synchronous serial communication interface commonly used for short-distance communication between microcontrollers and peripheral devices such as sensors, displays, and memory chips. The ESP32's SPI slave controller allows it to interface with a master SPI device, exchanging data according to the SPI protocol.
+With the SDIO/SPI slave controller feature, the ESP32 can be integrated into systems where it needs to act as a peripheral device controlled by another master device over SDIO or SPI communication protocols. This feature enhances the versatility of the ESP32 for a wide range of applications requiring communication with external devices.
+
+**SDIO PROTOCOL (SECURE DIGITAL INPUT/OUTPUT):**
+SDIO Protocol is a widely used Bus for the interfacing modem (device) to the application processor (Host). SDIO Protocol is used for Data exchange between host and device. Initially, the SDIO Protocol bus used operates at 50MHz (SD2.0) Specification. The current generation system uses a 200MHz (UHS I) SD3.0 bus.
+
+ SDIO Protocol capable host generates the Clock Signal at 400 kHz and scales up to the specific frequency as per the standard supported by the device. The Host issues specific commands over the CMD line and decides the next course of action based on the Response received by the Device. SDIO uses either 1-bit or 4-bit data transfer between the host and the device.
