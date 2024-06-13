@@ -1,5 +1,5 @@
 
-The Kalman Filter has inputs and outputs. The inputs are noisy and sometimes inaccurate measurements. The outputs are less noisy and more accurate estimates. the Kalman Filter estimates system parameters that are not observed or measured. It also used past observation to make estimation
+The Kalman Filter has inputs and outputs. The inputs are noisy and sometimes inaccurate measurements. The outputs are less noisy and more accurate estimates. the Kalman Filter estimates system parameters that are not observed or measured. It also uses past observation to make estimation
 
 Therefore, Kalman Filter is an algorithm that can estimate observable and unobservable parameters with great accuracy in real-time. Estimates with high accuracy are used to make precise predictions and decisions.
 
