@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "e8613ebf57ff9d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e36e3ad9bccca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d06561aa89d3bed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32 clock configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26e7efa2fe60cc7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed3af353b879cb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c0da5c456bf77ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed2fe92d028ff1b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9a80d6e419dd5ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c5bd0ae4a66fcea",
+    "type": "split",
+    "children": [
+      {
+        "id": "77a394df3e443c77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc05b095b19e871",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STM32 clock configuration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b44b565c115baa6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STM32 clock configuration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5ab060c9991dfa8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9035eb1474462643",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STM32 clock configuration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d06561aa89d3bed6",
+  "lastOpenFiles": [
+    "Pasted image 20240608214258.png",
+    "Pasted image 20240608195603.png",
+    "Pasted image 20240608195530.png",
+    "Pasted image 20240608105917.png",
+    "Pasted image 20240608105835.png",
+    "STM32 clock configuration.md",
+    "Pasted image 20240608105805.png",
+    "Pasted image 20240608104911.png",
+    "Pasted image 20240608102632.png"
+  ]
+}
