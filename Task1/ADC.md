@@ -19,3 +19,10 @@ Successive Approximation Register (SAR) is a popular type of analog-to-digital c
 6. **Conversion Cycle**: The process repeats for each conversion cycle, starting again with the MSB set and continuing until the entire conversion is complete.
 
 other ADC types are  **TRACKING(it tracks the previous output and compares it with the analog signal and makes changes)**
+
+### SAMPLE ACCUMULATION DURING ADC CONVERSION ###
+In the context of Analog-to-Digital Converters (ADC), "Accumulation up to 64 Samples per Conversion" refers to a feature that allows the ADC to average multiple samples of the input signal to produce a single output value for each conversion. This technique is commonly used to improve the accuracy and reduce the noise of the ADC measurements.
+#### How It Works ####
+1. **Sampling**: The ADC samples the input signal multiple times. In this case, it can sample up to 64 times for each conversion.
+2. **Accumulation**: Each sampled value is added (accumulated) together.
+3. **Averaging**: The accumulated value is typically divided by the number of samples to obtain the average value. This average value is then presented as the final conversion result.
