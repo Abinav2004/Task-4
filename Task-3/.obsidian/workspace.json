@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "9427980f632b758e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d98c2356ef0f9bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ad31b6a14bd598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PWM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58bf74a4bf72c7f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7b0508d20e4cda7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f07795779433022d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e5d14896bf85821",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f9408247043e318",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e08f442bc4b914a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e7f1e531b58e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1add47f4594e0a33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PWM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8700acbdb6ff9320",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PWM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "991ac36fcdfc01b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "936025b8038346c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PWM.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f1ad31b6a14bd598",
+  "lastOpenFiles": [
+    "Smoothing PWM Output.md",
+    "PWM.md",
+    "WhatsApp Image 2024-05-29 at 21.41.45_24e1cc84.jpg",
+    "Pasted image 20240529124255.png",
+    "Pasted image 20240529120001.png",
+    "Pasted image 20240529125037.png",
+    "Pasted image 20240529125457.png",
+    "Pasted image 20240529131357.png",
+    "Pasted image 20240529131547.png",
+    "Pasted image 20240529131930.png",
+    "555 timer.md",
+    "Pasted image 20240529124008.png",
+    "Screenshot 2024-05-01 104659.png"
+  ]
+}
